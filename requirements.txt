@@ -1,0 +1,15 @@
+* Python
+
+* OpenCV
+
+* PIL (Pillow)
+
+* NumPy
+
+* TensorFlow
+
+* Keras
+
+* Matplotlib
+
+* Seaborn
