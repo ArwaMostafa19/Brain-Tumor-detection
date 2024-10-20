@@ -6,9 +6,9 @@ This project utilizes a Convolutional Neural Network (CNN) to detect brain tumor
 
 Features
 
-*Image Classification: The model is capable of classifying MRI images into two categories: tumor or normal.
-*Web Interface: Users can upload an image through a simple web interface to get predictions.
-*Efficient Detection: The CNN model offers reliable performance, helping to assist in medical diagnostics.
+* Image Classification: The model is capable of classifying MRI images into two categories: tumor or normal.
+* Web Interface: Users can upload an image through a simple web interface to get predictions.
+* Efficient Detection: The CNN model offers reliable performance, helping to assist in medical diagnostics.
 
 Technologies Used
 
