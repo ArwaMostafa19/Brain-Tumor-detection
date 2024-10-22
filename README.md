@@ -19,5 +19,4 @@ Technologies Used
 * NumPy: For handling numerical operations and array manipulations.
 * TensorFlow/Keras: For building and training the Convolutional Neural Network (CNN).
 * Matplotlib: For visualizing the training process, including accuracy and loss graphs.
-* Seaborn: For creating informative and attractive statistical graphics, such as visualizing the confusion
-matrix.
+* Seaborn: For creating informative and attractive statistical graphics, such as visualizing the confusion matrix.
